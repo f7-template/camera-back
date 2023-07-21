@@ -3,7 +3,7 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST');
 
 //CHAVE DE SEGURANÇA
-$chaveServer = 'gD63Gsuahefr5Tqc0J9qQ7Ipy8UnF0'; //coloque uma chave de segurança aqui
+$chaveServer = 'SUA_CHAVE_AQUI'; //coloque uma chave de segurança aqui
 
 //CONFIGURAÇÕES BANCO
 $usuario = 'root';
